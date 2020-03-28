@@ -1,6 +1,6 @@
 # barslider
 
-A new Flutter project.
+A new Flutter project. Pragmatic State Management in Flutter (Google I/O'19) Example of code that is working at 8:13 they demo code. Here is my idea of what they are creating. https://www.youtube.com/watch?v=d_m5csmrf7I&t=493s
 
 ## Getting Started
 
